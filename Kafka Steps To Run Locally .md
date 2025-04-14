@@ -215,4 +215,5 @@ Press `**Ctrl + C**` in the terminal where Kafka is running, or use **Task Manag
 Now you have a **clear, step-by-step guide** to set up Kafka locally, produce and consume messages, and stop Kafka properly.
 
 Let me know if you have any further questions! 😊
+Yours Dev DSniper
 
