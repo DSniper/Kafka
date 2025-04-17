@@ -48,7 +48,7 @@ cmd /c "bin\windows\kafka-storage.bat format -t 2a63efff-6d23-42a0-8766-4e5a40af
 
 
 ```powershell
-kafka-storage.sh format -t <uuid> -c config\kraft\server.properties --ignore-formatted"
+cmd /c "bin\windows\kafka-storage.bat format -t <uuid> -c config\kraft\server.properties --ignore-formatted"
 ```
 - The command will use the GUID to format Kafka’s storage.
 If everything works fine, you should see something like:
